@@ -1,4 +1,4 @@
-# Ecommerce-chiqualaiz
+# E-commerce
 <h1>Integrantes:</h1> 
 <ul>
   <li><a href="https://github.com/Acemanu412">Manuel Aceituno</a><br></li>
