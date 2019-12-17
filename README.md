@@ -1,11 +1,13 @@
 # Ecommerce-chiqualaiz
 <h1>Integrantes:</h1> 
-<a href="https://github.com/Acemanu412">Manuel Aceituno</a><br>
-<a href="https://github.com/fariganello">Federico Ariganello</a><br>
-<a href="https://github.com/hanoip">Hanoi Pacheco</a><br>
-<a href="https://github.com/joacolarral">Joaquin Larralde</a><br>
-<a href="https://github.com/jmarce83">Marcelo Martin</a><br>
-<a href="https://github.com/Tativega">Tatiana Vega</a><br>
+<ul>
+  <li><a href="https://github.com/Acemanu412">Manuel Aceituno</a><br></li>
+  <li><a href="https://github.com/fariganello">Federico Ariganello</a><br></li>
+  <li><a href="https://github.com/hanoip">Hanoi Pacheco</a><br></li>
+  <li><a href="https://github.com/joacolarral">Joaquin Larralde</a><br></li>
+  <li><a href="https://github.com/jmarce83">Marcelo Martin</a><br></li>
+  <li><a href="https://github.com/Tativega">Tatiana Vega</a><br></li>
+  </ul>
 
 
 BACK-END
